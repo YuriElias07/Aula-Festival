@@ -1,0 +1,69 @@
+body{
+    background-color: #000201;
+}
+
+header{
+    display: block;
+    background-color: #87b0a9 ;
+    padding: 0px;
+    border: 1px solid black;
+    margin: 0px;
+    font-size: 35px;
+    border-radius: 10px;
+}
+
+.logoprefeitura{
+    position: absolute;
+    height: 150px;
+    top: 20px;
+    left: 50px;
+}
+
+section{
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+.show{
+    border-radius: 20px;
+    height: 700px;
+}
+
+.show:hover{
+    transform: scale(1.04);
+    transition:0.5s ease-in-out ;
+}
+
+.tituloG{
+    font-size: 60px
+}
+
+.festivals{
+    padding: 10px;
+    background-color: #717b7a;
+    list-style: none;
+    color: white;
+    border-radius: 40px;
+    
+}
+
+
+.festivals2{
+    padding: 10px;
+    background-color: #717b7a;
+    list-style: none;
+    color: white;
+    border-radius: 40px;
+    
+}
+
+.menu{
+   list-style: none;
+   font-size: 40px;
+   display: flex;
+   gap: 10px;
+   position: absolute;
+   top: 60px;
+   right: 90px;
+}
+
